@@ -64,6 +64,8 @@ You must pass specific parameters to control the image generation. The available
 
 ## Usage Examples
 
+> **Note**: Always `cd` into the skill directory before executing the scripts so that they can resolve local files like `.env`.
+
 **Python Example:**
 ```bash
 cd <current_skill_dir>
